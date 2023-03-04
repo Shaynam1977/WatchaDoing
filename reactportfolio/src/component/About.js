@@ -5,7 +5,7 @@ function About() {
     <div>
      <Parallax
         blur={{ min: -15, max: 15 }}
-        bgImage={"https://img.freepik.com/free-photo/grunge-paint-background_1409-1337.jpg?w=2000"}
+        bgImage={"https://pixelsandwanderlust.com/wp-content/uploads/2020/05/forest-landscape-photography-scaled.jpg"}
         bgImageAlt="the dog"
         strength={-200}
     >
